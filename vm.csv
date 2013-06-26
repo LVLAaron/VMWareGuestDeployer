@@ -1,0 +1,3 @@
+ipaddress,subnet,gateway,pdns,sdns,vmname,template,diskformat,dvpg
+192.168.0.207,255.255.255.0,192.168.0.1,192.168.0.33,192.168.0.43,LouQaWeb001,2008R2-Standard,thin,VM Network
+192.168.0.208,255.255.255.0,192.168.0.1,192.168.0.33,192.168.0.43,LouPrWeb001,2008R2-Standard,thin,VM Network
