@@ -14,7 +14,7 @@ The script then;
 
 Based on your static input values in the CSV, (IP, name, template, customization, etc) and the values that are detected, the script deploys machines for you. Sit back and enjoy. 
 
-
+If you've done everything correctly with your customization spec, your machines should be powered up and joined to your domain; but that's another topic.
 
 Plenty of room here for improvements but this works well for my team. For example, the host with the most free memory might not be the best choice for a deployment target, but DRS does a good job of later moving machines between hosts as needed. 
 
