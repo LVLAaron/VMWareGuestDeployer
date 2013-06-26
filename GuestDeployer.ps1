@@ -1,7 +1,7 @@
 # Add PowerCLI bits
 Add-PSSnapin -Name "VMware.VimAutomation.Core" -ErrorAction SilentlyContinue
 # Connect to Virtual Infrastructure
-Connect-VIserver LouPrMgt011.zcloud.com
+Connect-VIserver viserver.domain.lan
   
 $vmlist = Import-CSV "C:\vm.csv"
   
